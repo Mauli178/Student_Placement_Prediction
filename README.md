@@ -21,3 +21,10 @@ A complete Machine Learning Pipeline is been followed-
 
 ## Results 
 Above all Model Training and Evaluation the best performed model is "The Random Forest" with best accuracy among all the models.
+
+##Learnings 
+- Handling missing values and noisy data
+- Ml requires meaningfull patterns
+- Comparing Model Accuracy
+- Feature Enginnering required for improving accuracy
+- Performing EDA 
